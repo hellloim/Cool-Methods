@@ -1,0 +1,87 @@
+Easy PP/CVV cashout
+
+I will preface this by admitting that I may have something to gain since I sell the tools needed to make this work. My mind played connect the dots when reading the forum and checking my messages, and I realized it's easy to cash out with a little investment and work ahead of time.
+
+I can't guarantee this will work, I never tried it. But I do understand the systems involved so I'm as confidant as I can be.
+
+Everybody wants to know how to cash out. Well, that is easy, the hard part is getting away with it. Any fuckin moron can rob a bank, but it takes a genius to do it time and time again while leaving the investigators in a state of mental confusion akin to drinking mercury and pithing their brains with an icepick.
+
+This is not a step-by-step. Google is your friend (unless you're signed in). I don't hold hands, if you can't figure it out on your own from here, it's not in your scope.
+
+Ingredients:
+- EU paypal account
+- Fresh email
+- Anon debit card
+- CVV's
+- Balls
+
+Ok, Open an EU paypal account from one of the countries below. You can use fakenamegenerator.com or whatever you want. Just make sure is is a merchant and not personal. There are 3 levels, go with the middle. Get an Anonymous debit card, and link it to the paypal, using the CC and not the bank. I know for sure that the bank wont work for US accounts, as it is a deposit only bank account number. Depending on the country and the country's banking regs, paypal may or may not try to take back the verification amount they sent. Forget that.
+
+Once the paypal and debit card are connected successfully, it is time to get your free money. I don't know what language
+you are using in the EU paypal, but it goes something like this: Merchant tools--> Generate Paypal button. Alternatively, you can google "paypal but it now button" in quotes. Figure it out.
+
+I hope to god you got a CVV by now, because that's whats next. Using the code you got for the BIN button, go to http://htmlpreview.richiebrownlee.com/ Paste the code, click the button, and now you are at a paypal purchase page. Depending on where you are, and I haven't figured this out yet, you may have an option to pay with CC. It used to be that with USA, you could pay with CC but not sign up. So make sure you have a USA CC. If you registered a simple personal account, paypal will ask buyers to sign up first, and you might as well stop there.
+
+If you see the option to either sign up or pay with CC, you are GOLD.
+
+The amount will be immediately available on the paypal you created. Now, just withdraw funds to the debit card. 3-5 days, it will be there. Go shopping. See the girl with the big titties? Buy her a drink. You win.
+
+I cannot account for moneybookers, as I've never used it, but I imagine it would work the same way. To test with moneybookers, I suggest linking to a greendot card with a throw away account, since you need to verify SSN. That can be your legit moneybookers anyway.
+
+Here is a list of countries that SUPPOSEDLY don't need a VBA, only a CC:
+Bulgaria Chile Cyprus Estonia Gibraltar Iceland Indonesia Latvia
+Liechtenstein Lithuania Italy Israel Liechtenstein Luxembourg Malaysia Malta Philippines Poland Romania San Marino Slovakia Slovenia Turkey UAE Uruguay.
+
+• Anon Visa Debit Card, load with PP, LR, BTC and IBAN!
+• Unlimited stealth paypal accounts and how to withdraw
+
+I'll share with you a cashout method author: cubano
+
+I've been using square on my android to cash out cards... All I did was register with jingit com and apply for their visa debit card... I do it this was cause I just watch some ads until I make $2.00 which is the fee for the card... once the card arrives you'll get an account # and routing # as if it were a checkings account. (when you apply for the jingit card make sure you match FB's DOB with jingit card on the application form)
+
+now you register on squareup com and link it to the debit card acc. to verify the initial deposit they make don't wait til you get the statement, call the # on the back of the card and you can get your transaction history over the phone. (I forgot you have to activate the card over the phone. this is why you need the SSN and DOB)
+
+I only do this over open wifi and my android is not activated with any company. Also you must have location services enabled so don't do it close to your home.
+
+you don't need the reader, you can charge cards manually entering the card info. you need at least the billing zipcode.
+
+transactions under $25 don't require signature and you can skip the receipt.
+
+I always get another prepaid card to swipe it when I use a new acc for the first time, I never start using an acc entering numbers manually... it'll raise flags. don't use your own card linked to your bank... that would be stupid
+
+Beating the Online Casinos/Bookies (uk) author: boneless.
+
+What you need
+2 machines, or an accomplice to play your dummy account.
+UK non-3DS CVV.
+50 GBP cash.
+Access to a William Hill shop.
+
+Create 1st account.
+
+Setup VM on system 1. I'm not going in to any great detail on how to do this as it's covered elsewhere on the board. Use something like: Tor -> VM -> [UK]VPN / VPN1 -> VM -> [UK]VPN2.
+
+Download the software and setup an account using either your genuine details, or some fictitious details from the local area of the shop you will be using. The deposit option you are interested in is "Quick Cash".
+
+Off you go to a local William Hill shop to buy your Quick Cash voucher (say 50 GBP for this example). The shop prints 2 vouchers. One they keep which you will have to sign (in your fake name if you've used one), the other is given to you and contains the transaction code to enable you to deposit online.
+
+Now either contact your accomplice who will play the other account or:
+
+Create 2nd Account.
+
+Setup VM on system 2.
+
+Download the software same as for Account 1, and this time setup the account using the details from your CVV. Deposit using CVV (eg 400 GBP).
+
+Dumping Chips.
+
+Again, i'm not going into any great detail on this... if you don't know how to play poker, then learn... fast. Become familiar with which hands tend to generate the largest pots (eg AA vs KK). 6-handed tables are a good choice (0.50/1 for these amounts).
+
+Over the course of 1-2 hours, pass chips from Account 2 -> Account1, randomly losing some chips to the other players
+at the table. A reasonable target is for Account 1 to be +300.
+
+Cashing out.
+
+Ok, you're happy with your 300 profit. Click withdraw in the cashier, again choosing the "Quick Cash" option. Print off the voucher, then return to the shop where you were earlier in the day. Present the voucher, sign your name again to verify and walk out the shop 300 GBP richer for a few hours work.
+
+Note: It's probably not a great idea to use fictitious details if you use a shop in your own local area. No ID should be required for amount <500 GBP. If you've dumped chips with enough care, it's almost impossible to prove you were involved in any fraudulent activity. You'll have cash in your hand before anyone realizes any fraud has taken place, so no chance of freezing accounts.
